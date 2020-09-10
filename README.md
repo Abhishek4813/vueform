@@ -8,4 +8,4 @@ npm install
 npm run serve
 
 # Url
-http://locahost:8080/
+http://localhost:8080/
